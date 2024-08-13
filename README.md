@@ -73,5 +73,5 @@
    clear && python3 -m venv env && source env/bin/activate
    pip install requests && clear
    python3 app.py
-
+## Крок 4: Кінцевий результат, який ми отримали:
 ![Результат виконання](images/result.png)
